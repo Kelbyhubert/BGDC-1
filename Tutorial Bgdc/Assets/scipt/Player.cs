@@ -7,6 +7,7 @@ public class Player : MonoBehaviour
 {
     //bdasdaxdasdafatgagafaa
     //test
+    
     [SerializeField] float speed = 15f;
     [SerializeField] Rigidbody2D rb;
     Animator anim;
